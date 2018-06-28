@@ -1,0 +1,13 @@
+/Users/berc0/Documents/codecool/hackernews-graphql-java/src/main/java/com/howtographql/hackernews/Mutation.java
+/Users/berc0/Documents/codecool/hackernews-graphql-java/src/main/java/com/howtographql/hackernews/SigninResolver.java
+/Users/berc0/Documents/codecool/hackernews-graphql-java/src/main/java/com/howtographql/hackernews/GraphQLEndpoint.java
+/Users/berc0/Documents/codecool/hackernews-graphql-java/src/main/java/com/howtographql/hackernews/Query.java
+/Users/berc0/Documents/codecool/hackernews-graphql-java/src/main/java/com/howtographql/hackernews/SigninPayload.java
+/Users/berc0/Documents/codecool/hackernews-graphql-java/src/main/java/com/howtographql/hackernews/AuthData.java
+/Users/berc0/Documents/codecool/hackernews-graphql-java/src/main/java/com/howtographql/hackernews/UserRepository.java
+/Users/berc0/Documents/codecool/hackernews-graphql-java/src/main/java/com/howtographql/hackernews/DefaultGraphQLErrorHandler.java
+/Users/berc0/Documents/codecool/hackernews-graphql-java/src/main/java/com/howtographql/hackernews/User.java
+/Users/berc0/Documents/codecool/hackernews-graphql-java/src/main/java/com/howtographql/hackernews/Link.java
+/Users/berc0/Documents/codecool/hackernews-graphql-java/src/main/java/com/howtographql/hackernews/LinkResolver.java
+/Users/berc0/Documents/codecool/hackernews-graphql-java/src/main/java/com/howtographql/hackernews/AuthContext.java
+/Users/berc0/Documents/codecool/hackernews-graphql-java/src/main/java/com/howtographql/hackernews/LinkRepository.java
